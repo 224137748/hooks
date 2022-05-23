@@ -1,0 +1,14 @@
+.resize-box {
+  width: 200px;
+  height: 100px;
+  border: 1px solid;
+  resize: both;
+  overflow: auto;
+  padding: 5px;
+  min-height: 20px;
+  min-width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0 0 20px;
+}
